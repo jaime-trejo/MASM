@@ -44,7 +44,7 @@ There are 3 procedures
   <ul>
   <li>GamePageStart: Sets up the start screen display.</li>
   <li>RollDie: Generates a value for the die roll (1-6)</li>
-  <li>Game name1:PTR BYTE,name2:PTR BYTE : Takes in the players' names,calls the RollDie PROC and more<li>
+  <li>Game name1:PTR BYTE,name2:PTR BYTE : Takes in the players' names,calls the RollDie PROC and more</li>
   </ul>
   There is a proto and an invoke for the Game PROC
   
